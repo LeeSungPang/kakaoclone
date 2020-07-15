@@ -9,13 +9,17 @@
 }
 .friend__avatar.g-avatar {
   width: 70px;
+  margin-left: 10px;
 }
 .friend__avatar.m-avatar {
   width: 60px;
+  margin-left: 10px;
 }
 .friend .friend__column {
   display: flex;
   align-items: center;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 .friend .friend__avatar {
   margin-right: 15px;

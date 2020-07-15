@@ -1,7 +1,8 @@
 .nav {
   position: fixed;
   width: 100%;
-  background-color: #fcfcfc;
+
+  background-color: white;
   padding: 20px 50px;
   left: 0px;
   bottom: 0px;
@@ -20,7 +21,9 @@
 .nav .nav__list-link {
   position: relative;
 }
-
+.nav .nav__list .nav__list-item {
+  padding-right: 30px;
+}
 .nav .nav__badge {
   position: absolute;
   top: -7px;
